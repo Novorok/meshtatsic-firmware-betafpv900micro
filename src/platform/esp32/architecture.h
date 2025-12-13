@@ -135,6 +135,8 @@
 #define HW_VENDOR meshtastic_HardwareModel_CDEBYTE_EORA_S3
 #elif defined(BETAFPV_2400_TX)
 #define HW_VENDOR meshtastic_HardwareModel_BETAFPV_2400_TX
+#elif defined(BETAFPV_900_TX_MICRO)
+#define HW_VENDOR meshtastic_HardwareModel_BETAFPV_900_MICRO_TX
 #elif defined(NANO_G1_EXPLORER)
 #define HW_VENDOR meshtastic_HardwareModel_NANO_G1_EXPLORER
 #elif defined(BETAFPV_900_TX_NANO)
